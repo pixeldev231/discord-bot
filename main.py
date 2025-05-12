@@ -51,5 +51,5 @@ async def help(interact:discord.Interaction):
     comandos = await bot.tree.sync()
     await interact.response.send_message(f"aqui estão meus comandos {comandos}")
 
-bot.run("MTM2ODA3OTQ3NjQ0OTA4NzUzOA.GoSbXR.RkDfY1T3j3rO4P5GMFwvXPDiwsnTQ1z9Zm1K9I")
+bot.run("")
 
